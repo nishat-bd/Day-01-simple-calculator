@@ -4,7 +4,7 @@ This is a simple calculator built using HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-![Calculator Screenshot](Simple calculator.jpeg)
+![Calculator Screenshot](Day-01-simple-calculator/Simple calculator.jpeg)
 
 ## Features
 - Addition
